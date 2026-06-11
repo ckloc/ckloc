@@ -8,7 +8,7 @@ I'm a translator and localization specialist with a strong interest in technolog
 
 🛠️ I enjoy working with CAT tools and experimenting with different workflows to improve translation quality and efficiency.
 
-🐧 Beyond languages, I like learning about n8n, Docker, automation, Wordpress and various tech tools.
+⚙️  Beyond languages, I like learning about n8n, Docker, automation, Wordpress and various tech tools.
 
 🌍 I also designed and built my personal portfolio website using WordPress: https://cagdaskoca.com.tr/
 
