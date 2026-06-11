@@ -10,13 +10,13 @@ I'm a translator and localization specialist with a strong interest in technolog
 
 🐧 Beyond languages, I like learning about n8n, Docker, automation, Wordpress and various tech tools.
 
-🌍 I believe that combining linguistic expertise with technology opens up exciting opportunities for the future.
+🌍 I also designed and built my personal portfolio website using WordPress: https://cagdaskoca.com.tr/
 
-## 🌐 Languages
+## 🗣️ Languages
 
 * 🇹🇷 Turkish (Native)
-* 🇬🇧 English
-* 🇩🇪 German
+* 🇬🇧 English (Professional Proficiency Level)
+* 🇩🇪 German (Professional Proficiency Level)
 
 ## 📚 Areas of Interest
 
@@ -26,7 +26,7 @@ I'm a translator and localization specialist with a strong interest in technolog
 * ⚖️ Legal Translation
 * 🎬 Subtitling
 * 🌐 Web/App Localization
-* 🐧 n8n & Automation
+* ⚙️ n8n & Automation
 
 ## 🧰 Tools
 
@@ -36,14 +36,3 @@ I'm a translator and localization specialist with a strong interest in technolog
 | 🎬 Subtitle & Media | Subtitle Edit |
 | 📚 Desktop Publishing | Adobe InDesign, Affinity Publisher |
 | 🌐 Web & Automation | WordPress, n8n, OpenRouter |
-
-## 🚀 Currently Exploring
-
-* AI-assisted translation workflows
-* Automation and productivity tools
-* Localization technologies
-
-I also designed and built my personal portfolio website using WordPress: https://cagdaskoca.com.tr/
-
-Always curious to learn new things and explore the intersection of languages and technology.
-#xl8 #t9n #l10n
