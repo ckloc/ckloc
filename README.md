@@ -1,5 +1,5 @@
 # Hi there! I'm Cagdas👋
-# EN-DE <> TR Translator & Localisation Specialist
+## EN-DE <> TR Translator & Localisation Specialist
 I'm a translator and localization specialist with a strong interest in technology and the future of translation. I work with Turkish, English, German and I enjoy exploring how AI and language technologies are shaping the localization industry.
 
 💬 Passionate about languages and communication.
