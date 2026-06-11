@@ -1,5 +1,5 @@
-# Hi there! 👋
-
+# Hi there! I'm Cagdas👋
+# EN-DE <> TR Translator & Localisation Specialist
 I'm a translator and localization specialist with a strong interest in technology and the future of translation. I work with Turkish, English, German and I enjoy exploring how AI and language technologies are shaping the localization industry.
 
 💬 Passionate about languages and communication.
@@ -30,28 +30,12 @@ I'm a translator and localization specialist with a strong interest in technolog
 
 ## 🧰 Tools
 
-### 📝 CAT & Localization
-
-* memoQ
-* OmegaT
-* Smartcat
-* MateCat
-* Crowdin
-
-### 🎬 Subtitle & Media
-
-* Subtitle Edit
-
-### 📚 Desktop Publishing
-
-* Adobe InDesign
-* Affinity Publisher
-
-### 🌐 Web & Automation
-
-* WordPress
-* n8n
-* Openrouter
+| Category | Tools |
+|----------|------|
+| 📝 CAT & Localization | memoQ, OmegaT, Smartcat, MateCat, Crowdin |
+| 🎬 Subtitle & Media | Subtitle Edit |
+| 📚 Desktop Publishing | Adobe InDesign, Affinity Publisher |
+| 🌐 Web & Automation | WordPress, n8n, OpenRouter |
 
 ## 🚀 Currently Exploring
 
