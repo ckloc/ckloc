@@ -28,7 +28,7 @@ I'm a translator and localization specialist with a strong interest in technolog
 * 🌐 Web/App Localization
 * 🐧 n8n & Automation
 
-## 🧰 Tools I Use
+## 🧰 Tools
 
 ### 📝 CAT & Localization
 
@@ -58,6 +58,8 @@ I'm a translator and localization specialist with a strong interest in technolog
 * AI-assisted translation workflows
 * Automation and productivity tools
 * Localization technologies
+
+I also designed and built my personal portfolio website using WordPress: https://cagdaskoca.com.tr/
 
 Always curious to learn new things and explore the intersection of languages and technology.
 #xl8 #t9n #l10n
