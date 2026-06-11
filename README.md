@@ -20,7 +20,7 @@ I'm a translator and localization specialist with a strong interest in technolog
 
 ## 📚 Areas of Interest
 
-* 🌐 Translation & Localization
+* 💻 Translation & Localization
 * 🤖 AI in Translation
 * 📄 Technical Translation
 * ⚖️ Legal Translation
@@ -37,7 +37,7 @@ I'm a translator and localization specialist with a strong interest in technolog
 | 📚 Desktop Publishing | Adobe InDesign, Affinity Publisher |
 | 🌐 Web & Automation | WordPress, n8n, OpenRouter |
 
-## Let's Contact!
+## 📩 Let's Contact!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cagdaskoca3435/)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=wordpress&logoColor=white)](https://cagdaskoca.com.tr)
