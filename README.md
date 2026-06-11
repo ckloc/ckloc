@@ -58,7 +58,6 @@ I'm a translator and localization specialist with a strong interest in technolog
 * AI-assisted translation workflows
 * Automation and productivity tools
 * Localization technologies
-* Github
 
 Always curious to learn new things and explore the intersection of languages and technology.
 #xl8 #t9n #l10n
