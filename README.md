@@ -42,3 +42,4 @@ I'm a translator and localization specialist with a strong interest in technolog
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cagdaskoca3435/)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=wordpress&logoColor=white)](https://cagdaskoca.com.tr)
 [![Crowdin](https://img.shields.io/badge/Crowdin-2E3340?style=for-the-badge&logo=crowdin&logoColor=white)](https://crowdin.com/profile/ckloc)
+[![ProZ.com](https://img.shields.io/badge/ProZ.com-003B6F?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.proz.com/profile/4484552)
