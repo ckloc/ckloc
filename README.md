@@ -15,7 +15,7 @@ I'm a translator and localization specialist with a strong interest in technolog
 ## 🗣️ Languages
 
 * 🇹🇷 Turkish (Native)
-* 🇬🇧 English (Professional Proficiency Level)
+* 🇪🇳 English (Professional Proficiency Level)
 * 🇩🇪 German (Professional Proficiency Level)
 
 ## 📚 Areas of Interest
