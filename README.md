@@ -1,6 +1,6 @@
 # Hi there! I'm Cagdas👋
-## EN-DE <> TR Translator & Localisation Specialist
-I'm a translator and localization specialist with a strong interest in technology and the future of translation. I work with Turkish, English, German and I enjoy exploring how AI and language technologies are shaping the localization industry.
+## EN-DE <> TR Translator & Localization Specialist
+Translator and localization specialist with a strong interest in technology and the future of translation.Woring with Turkish, English, German and I enjoy exploring how AI and language technologies are shaping the localization industry.
 
 💬 Passionate about languages and communication.
 
@@ -8,34 +8,34 @@ I'm a translator and localization specialist with a strong interest in technolog
 
 🛠️ I enjoy working with CAT tools and experimenting with different workflows to improve translation quality and efficiency.
 
-⚙️  Beyond languages, I like learning about n8n, Docker, automation, Wordpress and various tech tools.
+⚙️ Beyond languages, I like learning about n8n, automation, Wordpress and various tech tools.
 
 🌍 I also designed and built my personal portfolio website using WordPress: https://cagdaskoca.com.tr/
 
 ## 🗣️ Languages
 
 * 🇹🇷 Turkish (Native)
-* 🇪🇳 English (Professional Proficiency Level)
-* 🇩🇪 German (Professional Proficiency Level)
+* 🇪🇳 English (Full Professional Working Proficiency)
+* 🇩🇪 German (Professional Working Proficiency)
 
 ## 📚 Areas of Interest
 
-* 💻 Translation & Localization
-* 🤖 AI in Translation
-* 📄 Technical Translation
-* ⚖️ Legal Translation
-* 🎬 Subtitling
-* 🌐 Web/App Localization
-* ⚙️ n8n & Automation
+* Translation & Localization
+* Editing & Proofreading (MTPE, QA)
+* AI in Translation & Localization
+* Technical & Legal Translation
+* Multimedia Translation
+* Web/App/Software Localization
+* n8n & Automation
 
 ## 🧰 Tools
 
 | Category | Tools |
 |----------|------|
-| 📝 CAT & Localization | memoQ, OmegaT, Smartcat, MateCat, Crowdin |
+| 📝 CAT & Localization | MemoQ; Trados; MateCat; Smartcat; Crowdin; OmegaT; CafeTran  |
 | 🎬 Subtitle & Media | Subtitle Edit |
 | 📚 Desktop Publishing | Adobe InDesign, Affinity Publisher |
-| 🌐 Web & Automation | WordPress, n8n, OpenRouter |
+| 🌐 Web & Automation | WordPress, n8n |
 
 ## 📩 Let's Contact!
 
