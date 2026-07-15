@@ -32,8 +32,8 @@ Translator and localization specialist with a strong interest in technology and 
 
 | Category | Tools |
 |----------|------|
-| 📝 CAT & Localization | MemoQ; Trados; MateCat; Smartcat; Crowdin; OmegaT; CafeTran  |
-| 🎬 Subtitle & Media | Subtitle Edit |
+| 📝 CAT & Localization | MemoQ; MateCat; Crowdin; OmegaT; CafeTran  |
+| 🎬 Subtitle & Media | Subtitle Edit, Aegisub |
 | 📚 Desktop Publishing | Adobe InDesign, Affinity Publisher |
 | 🌐 Web & Automation | WordPress, n8n |
 
