@@ -1,16 +1,16 @@
-# Hi there! I'm Cagdas👋
+# Hi, I'm Cagdas
 ## EN-DE <> TR Translator & Localization Specialist
-Translator and localization specialist with a strong interest in technology and the future of translation.Woring with Turkish, English, German and I enjoy exploring how AI and language technologies are shaping the localization industry.
+Translator and localization specialist with a strong interest in technology and the future of translation.Working with Turkish, English, German and I enjoy exploring how AI and language technologies are shaping the localization industry.
 
-💬 Passionate about languages and communication.
+- Passionate about languages and communication.
 
-🤖 Interested in AI, translation technologies, and the future of localization.
+- Interested in AI, translation technologies, and the future of localization.
 
-🛠️ I enjoy working with CAT tools and experimenting with different workflows to improve translation quality and efficiency.
+- I enjoy working with CAT tools and experimenting with different workflows to improve translation quality and efficiency.
 
-⚙️ Beyond languages, I like learning about n8n, automation, Wordpress and various tech tools.
+- Beyond languages, I like learning about n8n, automation, Wordpress and various tech tools.
 
-🌍 I also designed and built my personal portfolio website using WordPress: https://cagdaskoca.com.tr/
+- I also designed and built my personal portfolio website using WordPress: https://cagdaskoca.com.tr/
 
 ## 🗣️ Languages
 
@@ -32,10 +32,10 @@ Translator and localization specialist with a strong interest in technology and 
 
 | Category | Tools |
 |----------|------|
-| 📝 CAT & Localization | MemoQ; MateCat; Crowdin; OmegaT; CafeTran  |
-| 🎬 Subtitle & Media | Subtitle Edit, Aegisub |
-| 📚 Desktop Publishing | Adobe InDesign, Affinity Publisher |
-| 🌐 Web & Automation | WordPress, n8n |
+| CAT & Localization | MemoQ; MateCat; Crowdin; OmegaT; CafeTran  |
+| Subtitle & Media | Subtitle Edit, Aegisub |
+| Desktop Publishing | Adobe InDesign, Affinity Publisher |
+| Web & Automation | WordPress, n8n |
 
 ## 📩 Let's Contact!
 
