@@ -1,5 +1,5 @@
 # EN-DE <> TR Translator & Localization Specialist
-Translator and localization specialist with a strong interest in technology and the future of translation.Working with Turkish, English, German and I enjoy exploring how AI and language technologies are shaping the localization industry.
+Translator and localization specialist with a strong interest in technology and the future of translation. Working with Turkish, English, German and exploring how AI and language technologies are shaping the localization industry.
 
 - Passionate about languages and communication.
 
