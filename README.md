@@ -9,15 +9,15 @@ Translator and localization specialist with a strong interest in technology and 
 
 - Beyond languages, I like learning about n8n, automation, Wordpress and various tech tools.
 
-- I also designed and built my personal portfolio website using WordPress: https://cagdaskoca.com.tr/
+- I also designed and built my personal portfolio website using AI and vibe-coding : https://cagdaskoca.com.tr/
 
-## 🗣️ Languages
+## Languages
 
 * 🇹🇷 Turkish (Native)
 * 🇪🇳 English (Full Professional Working Proficiency)
 * 🇩🇪 German (Professional Working Proficiency)
 
-## 📚 Areas of Interest
+## Areas of Interest
 
 * Translation & Localization
 * Editing & Proofreading (MTPE, QA)
@@ -27,14 +27,14 @@ Translator and localization specialist with a strong interest in technology and 
 * Web/App/Software Localization
 * n8n & Automation
 
-## 🧰 Tools
+## Tech Stack
 
 | Category | Tools |
 |----------|------|
-| CAT & Localization | MemoQ; MateCat; Crowdin; OmegaT; CafeTran  |
+| CAT & Localization | MemoQ; MateCat; Smartcat; Crowdin; OmegaT; |
 | Subtitle & Media | Subtitle Edit, Aegisub |
 | Desktop Publishing | Adobe InDesign, Affinity Publisher |
-| Web & Automation | WordPress, n8n |
+| Vibe-coding | Antigravity |
 
 ## 📩 Let's Contact!
 
