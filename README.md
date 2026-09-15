@@ -19,13 +19,12 @@ Translator and localization specialist with a strong interest in technology and 
 
 ## Areas of Interest
 
-* Translation & Localization
 * Editing & Proofreading (MTPE, QA)
-* AI in Translation & Localization
+* Generative AI in Translation
 * Technical & Legal Translation
-* Multimedia Translation
+* Subtitling & Transcription
 * Web/App/Software Localization
-* n8n & Automation
+* Vibe-coding & Automation
 
 ## Tech Stack
 
