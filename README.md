@@ -33,7 +33,7 @@ Translator and localization specialist with a strong interest in technology and 
 | CAT & Localization | MemoQ; MateCat; Smartcat; Crowdin; OmegaT; |
 | Subtitle & Media | Subtitle Edit, Aegisub |
 | Desktop Publishing | Adobe InDesign, Affinity Publisher |
-| Vibe-coding | Antigravity |
+| Vibe-coding | VS Code |
 
 ## 📩 Let's Contact!
 
