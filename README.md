@@ -1,5 +1,6 @@
 # Translator who loves technology.
-Human translator. Yes human. Using AI in projects does not mean words will sound robotic. I'm just keeping up with the new era of translation and localization industry. Embracing the future of translation and exploring how AI and language technologies are shaping the localization.
+Human translator. Yes, human.
+Using AI in translation doesn’t mean making language sound robotic. It means embracing the new era of translation and localization while keeping human expertise at the center. I’m exploring how AI and language technologies are reshaping the industry — and finding new ways to combine technology with human creativity, context, and linguistic judgment.
 
 - Passionate about languages and communication.
 
