@@ -1,5 +1,5 @@
-# Translator & Localization Specialist
-Translator and localization specialist with a strong interest in technology and the future of translation. Working with Turkish, English, German and exploring how AI and language technologies are shaping the localization industry.
+# Translator who loves technology.
+Human translator. Yes human. Using AI in projects does not mean words will sound robotic. I'm keeping up with the new era of translation and localization industry. Embracing the future of translation and exploring how AI and language technologies are shaping the localization.
 
 - Passionate about languages and communication.
 
