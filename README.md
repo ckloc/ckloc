@@ -33,7 +33,7 @@ Using AI in translation doesn’t mean making language sound robotic. It means e
 | CAT & Localization | MemoQ; MateCat; Smartcat; Crowdin; OmegaT; |
 | Subtitle & Media | Subtitle Edit, Aegisub |
 | Desktop Publishing | Adobe InDesign, Affinity Publisher |
-| Vibe-coding | VS Code; Antigravity |
+| Vibe-coding | VS Code; Antigravity; LM Studio |
 
 ## 📩 Let's Contact!
 
