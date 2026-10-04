@@ -5,7 +5,7 @@ Using AI in translation doesn’t mean making language sound robotic. It means e
 
 - Enjoy working with CAT tools and experimenting with different workflows to improve translation quality and efficiency.
 
-- I like learning about vibe-coding, generative AI translation, automation, and various tech tools.
+- I like learning about vibe-coding, GenAI translation, automation, and various tech tools.
 
 - I also designed and built my personal portfolio website using AI and vibe-coding : https://cagdaskoca.com.tr/
 
@@ -18,7 +18,7 @@ Using AI in translation doesn’t mean making language sound robotic. It means e
 ## Areas of Interest
 
 * Editing & Proofreading (MTPE, QA)
-* Generative AI in Translation
+* GenAI in Translation
 * Technical & Legal Translation
 * Subtitling & Transcription
 * Web/App/Software Localization
