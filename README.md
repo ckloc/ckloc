@@ -1,11 +1,9 @@
 # Translator who loves technology.
 Using AI in translation doesn’t mean making language sound robotic. It means embracing the new era of translation and localization while keeping human expertise at the center. I’m exploring how AI and language technologies are reshaping the industry — and finding new ways to combine technology with human creativity, context, and linguistic judgment.
 
-- Passionate about languages and communication.
-
 - Interested in AI, translation technologies, and the future of localization.
 
-- I enjoy working with CAT tools and experimenting with different workflows to improve translation quality and efficiency.
+- Enjoy working with CAT tools and experimenting with different workflows to improve translation quality and efficiency.
 
 - I like learning about vibe-coding, generative AI translation, automation, and various tech tools.
 
